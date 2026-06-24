@@ -26,7 +26,7 @@ How to Run
 2. Open the project in VS Code.
 3. Run npm install.
 4. Run npm start.
-5. Open http://localhost:3000 in your browser.
+5. Open http://localhost:5173 in your browser.
 
 Future Enhancements
 
